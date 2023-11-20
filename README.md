@@ -7,9 +7,11 @@ I'm a passionate AI enthusiast and researcher with a knack for approaching probl
 - Machine Learning, Deep Learning, Computer Vision, NLP
 
 🌐 **Projects:**
-**1. Visual Phrase Grounding | Research Intern (2023)** 
-**2. Image Colorization | Vision and Cognitive System Project (2022)**
-**3. Medical Imaging for Alzheimer's Diagnosis | Research Intern (2020)**
+1. Visual Phrase Grounding | Research Intern (2023)
+
+2. Image Colorization | Vision and Cognitive System Project (2022)
+
+3. Medical Imaging for Alzheimer's Diagnosis | Research Intern (2020)
 
 🏆 **Achievements:**
 - Published research on Alzheimer's diagnosis from MRIs.
